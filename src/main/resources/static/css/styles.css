@@ -1,0 +1,35 @@
+/**
+* @file css/styles.css
+*/
+
+body {
+    font-family: sans-serif;
+    background: #333;
+    color: #fff;
+}
+
+h1 {}
+h2 {}
+ol {}
+ol > li {}
+
+label {
+ display: inline-block;
+ min-width: 400px;
+ /* max-width: 400px; */
+}
+
+input[type="text"]{
+    border: 1px inset #333;
+    background: #222;
+    color: #fff;
+}
+input[type="button"],
+input[type="submit"],
+button {
+    border: 3px outset #333;
+    background: #222;
+    color: #fff;
+}
+
+select {}
