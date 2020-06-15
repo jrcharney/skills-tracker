@@ -25,3 +25,6 @@ In `SkillsController` you will add several methods to accomplish the following:
 Not sure if I did everything right, but I am pleased with the results.
 
 I even got CSS working in the static assets, though I'm sure we'll deal with that later in Thymeleaf.
+
+## TODO
+* [ ] Go back and replace the arrays with `ArrayList`s! (Good golly, I'm an idiot sometimes.)
